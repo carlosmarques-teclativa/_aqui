@@ -17,3 +17,5 @@ define('WP_USE_THEMES', true);
 require( dirname( __FILE__ ) . '/site/wp-blog-header.php' );
 
 //meu comentario em index.php
+
+//Linha  nova para testar
